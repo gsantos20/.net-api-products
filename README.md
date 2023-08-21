@@ -59,7 +59,7 @@ $ dotnet tool install --global dotnet ef
 $ dotnet builld
 
 # Execute as migrações inicias do projeto
-$ dotnet ef migrations add initial migritions
+$ dotnet ef migrations add initial-migrition
 $ dotnet ef database update
 
 # Execute a aplicação
