@@ -47,7 +47,7 @@ Para rodar a API , você vai precisar adicionar as seguintes variáveis de ambie
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/endeken-com/.net-assesment-gustavo-neris.git
+$ git clone https://github.com/gsantos20/.net-api-products.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd ProductsAPI
@@ -76,7 +76,7 @@ Para rodar a API utlizando docker , é necessario ter o docker e docker compose 
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/endeken-com/.net-assesment-gustavo-neris.git
+$ git clone https://github.com/gsantos20/.net-api-products.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd ProductsAPI
