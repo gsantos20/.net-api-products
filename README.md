@@ -50,7 +50,7 @@ Para rodar a API , você vai precisar adicionar as seguintes variáveis de ambie
 $ git clone https://github.com/gsantos20/.net-api-products.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd ProductsAPI
+$ cd .net-api-products
 
 # Instale o framework Entity Framweork
 $ dotnet tool install --global dotnet ef
@@ -79,7 +79,7 @@ Para rodar a API utlizando docker , é necessario ter o docker e docker compose 
 $ git clone https://github.com/gsantos20/.net-api-products.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd ProductsAPI
+$ cd .net-api-products
 
 # Instale o framework Entity Framweork
 $ docker compose up --build
